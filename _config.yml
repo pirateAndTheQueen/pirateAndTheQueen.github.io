@@ -5,3 +5,5 @@ url: https://pirateandthequeen.github.io
 
 # Locally
 baseurl: ""
+
+markdown: kramdown
