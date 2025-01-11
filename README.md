@@ -1,9 +1,9 @@
 # The Pirate and the Queen
 
-## Venue
+## Venue {#venue}
 
-## Our story
+## Our story {#our-story}
 
-## Travel Info
+## Travel Info {#travel-info}
 
-## Contact
+## Contact {#contact}
