@@ -1,0 +1,3 @@
+{% include css/bootstrap.min.css %}
+{% include css/pq_style.css %}
+{{ content }}
