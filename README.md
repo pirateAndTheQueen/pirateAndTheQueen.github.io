@@ -1,2 +1,9 @@
 # The Pirate and the Queen
-wedding-page
+
+## Venue
+
+## Our story
+
+## Travel Info
+
+## Contact
