@@ -1,6 +1,3 @@
----
-layout: default
----
 
 
 # The Pirate and the Queen
