@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # The Pirate and the Queen
 
 ![banner](img/pq_banner.jpeg)
